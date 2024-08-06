@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajnakulal88&label=Profile%20views&color=0e75b6&style=flat" alt="prajnakulal88" /> </p>
 
-- 🔭 I’m currently working on **college database management**
+- 🔭 I’m currently working on **final year project-Liveness face detector**
 
 - 🌱 I’m currently learning **pyhton and django framework**
 
